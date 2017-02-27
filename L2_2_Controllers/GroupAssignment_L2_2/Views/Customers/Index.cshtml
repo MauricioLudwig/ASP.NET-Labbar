@@ -13,7 +13,9 @@
         {
             <h2>@customer.Id - @customer.CompanyName</h2>
             <a href="/customers/details/@customer.Id">- Learn more -</a><br />
-            <a class="removeLink" href="/customers/remove/@customer.Id">- Delete -</a>
+            <form action="/customers/remove/@customer.Id" method="post">
+                <input type="submit" value="Remove!"/>
+            </form>
         }
         <br /><br /><a style="color: aquamarine;" href="/customers/create/">Create new Customer</a>
     </div>

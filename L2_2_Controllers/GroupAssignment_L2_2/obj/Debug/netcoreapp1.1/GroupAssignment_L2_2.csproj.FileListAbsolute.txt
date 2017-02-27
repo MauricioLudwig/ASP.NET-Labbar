@@ -18,3 +18,4 @@ C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 
 C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\ASP.NET-Labbar\L2_2_Controllers\GroupAssignment_L2_2\obj\Debug\netcoreapp1.1\GroupAssignment_L2_2.AssemblyInfo.cs
 C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\ASP.NET-Labbar\L2_2_Controllers\GroupAssignment_L2_2\obj\Debug\netcoreapp1.1\GroupAssignment_L2_2.dll
 C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\ASP.NET-Labbar\L2_2_Controllers\GroupAssignment_L2_2\obj\Debug\netcoreapp1.1\GroupAssignment_L2_2.pdb
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\ASP.NET-Labbar\L2_2_Controllers\GroupAssignment_L2_2\obj\Debug\netcoreapp1.1\GroupAssignment_L2_2.csprojResolveAssemblyReference.cache

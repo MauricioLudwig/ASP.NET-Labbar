@@ -37,6 +37,7 @@ namespace GroupAssignment_L2_2.Controllers
             return View();
         }
 
+        [HttpPost]
         public IActionResult Remove(int id)
         {
             DataManager.RemoveCustomer(id);
