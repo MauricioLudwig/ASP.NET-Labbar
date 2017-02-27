@@ -21154,10 +21154,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Damien\\Dropbox\\School (SU16)\\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\\Projects\\GroupAssignments\\GroupAssignment_L2_2\\GroupAssignment_L2_2\\GroupAssignment_L2_2.csproj",
+      "projectUniqueName": "C:\\Users\\Damien\\Dropbox\\School (SU16)\\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\\ASP.NET-Labbar\\L2_2_Controllers\\GroupAssignment_L2_2\\GroupAssignment_L2_2.csproj",
       "projectName": "GroupAssignment_L2_2",
-      "projectPath": "C:\\Users\\Damien\\Dropbox\\School (SU16)\\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\\Projects\\GroupAssignments\\GroupAssignment_L2_2\\GroupAssignment_L2_2\\GroupAssignment_L2_2.csproj",
-      "outputPath": "C:\\Users\\Damien\\Dropbox\\School (SU16)\\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\\Projects\\GroupAssignments\\GroupAssignment_L2_2\\GroupAssignment_L2_2\\obj\\",
+      "projectPath": "C:\\Users\\Damien\\Dropbox\\School (SU16)\\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\\ASP.NET-Labbar\\L2_2_Controllers\\GroupAssignment_L2_2\\GroupAssignment_L2_2.csproj",
+      "outputPath": "C:\\Users\\Damien\\Dropbox\\School (SU16)\\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\\ASP.NET-Labbar\\L2_2_Controllers\\GroupAssignment_L2_2\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

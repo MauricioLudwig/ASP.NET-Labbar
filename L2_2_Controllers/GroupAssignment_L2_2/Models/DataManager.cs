@@ -54,7 +54,8 @@ namespace GroupAssignment_L2_2.Models
 
         public static void RemoveCustomer(int id)
         {
-            customers.RemoveAt(id - 1);
+            customers.Remove(customers
+                .SingleOrDefault(x => x.Id == id));
         }
     }
 }
