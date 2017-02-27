@@ -1,0 +1,16 @@
+﻿@using GroupAssignment_L1.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+</head>
+<body>
+    @foreach (Band band in ViewBag.Bands)
+    {
+        <h1>@band.Name</h1>
+        <p><a href="details/@band.Id">Details</a></p>
+        <br />
+    }
+</body>
+</html>

@@ -1,0 +1,18 @@
+﻿body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: darkred;
+    color: white;
+}
+a, a:visited
+{
+    text-decoration: none;
+    color: yellow;
+}
+a:hover
+{
+    color: green;
+}
+ul
+{
+    list-style: none;
+}

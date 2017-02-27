@@ -1,0 +1,13 @@
+﻿@using GroupAssignment_L1.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Details</title>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+</head>
+<body>
+    <h2>@ViewBag.Band.Id - @ViewBag.Band.Name</h2>
+    <p>@ViewBag.Band.Description</p>
+    <p><a href="../albums/@ViewBag.Band.Id">Album Art</a></p>
+</body>
+</html>

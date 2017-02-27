@@ -1,0 +1,23 @@
+﻿@using GroupAssignment_L2_2.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+    <script src="~/js/script.js"></script>
+</head>
+<body>
+
+    <div class="container">
+        <h1>Index</h1>
+        @foreach (Customer customer in ViewBag.Customers)
+        {
+            <h2>@customer.Id - @customer.CompanyName</h2>
+            <a href="/customers/details/@customer.Id">- Learn more -</a><br />
+            <a class="removeLink" href="/customers/remove/@customer.Id">- Delete -</a>
+        }
+    </div>
+
+</body>
+</html>

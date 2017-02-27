@@ -1,0 +1,21 @@
+﻿@using GroupAssignment_L2_2.Models;
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Details</title>
+    <link rel="stylesheet" type="text/css" href="~/css/style.css" />
+</head>
+<body>
+
+    <div class="container">
+        <h1>Details</h1><br />
+        <h2>@ViewBag.Customer.Id - @ViewBag.Customer.CompanyName</h2>
+        <p>Number of Employees: @ViewBag.Customer.EmployeeCount</p><br />
+        <h2>Address</h2>
+        <p>Street: @ViewBag.Customer.CompanyAddress.Street</p>
+        <p>City: @ViewBag.Customer.CompanyAddress.City</p>
+        <p>Country: @ViewBag.Customer.CompanyAddress.Country</p>
+    </div>
+
+</body>
+</html>

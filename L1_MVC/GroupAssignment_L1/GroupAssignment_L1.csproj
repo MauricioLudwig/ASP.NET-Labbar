@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="wwwroot\css\Style.css" />
+    <Content Include="wwwroot\img\arctic-monkeys-cover-art.jpg" />
+    <Content Include="wwwroot\img\oasis-cover-art.png" />
+    <Content Include="wwwroot\img\stone-roses-cover-art.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ApplicationInsights.AspNetCore" Version="2.0.0" />
+    <PackageReference Include="Microsoft.AspNetCore" Version="1.1.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Mvc" Version="1.1.1" />
+    <PackageReference Include="Microsoft.AspNetCore.StaticFiles" Version="1.1.0" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="wwwroot\NewFolder\" />
+  </ItemGroup>
+
+</Project>

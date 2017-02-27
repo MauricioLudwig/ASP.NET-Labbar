@@ -1,0 +1,11 @@
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\GroupAssignment_L2_1.deps.json
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\GroupAssignment_L2_1.runtimeconfig.json
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\GroupAssignment_L2_1.runtimeconfig.dev.json
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\obj\Debug\netcoreapp1.1\GroupAssignment_L2_1.AssemblyInfo.cs
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\GroupAssignment_L2_1.dll
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\bin\Debug\netcoreapp1.1\GroupAssignment_L2_1.pdb
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\obj\Debug\netcoreapp1.1\GroupAssignment_L2_1.dll
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\obj\Debug\netcoreapp1.1\GroupAssignment_L2_1.pdb
+C:\Users\Damien\Dropbox\School (SU16)\.Y1-VT17-2 Webbutveckling med ASP.NET (20 p)\Projects\GroupAssignments\GroupAssignment_L2_1\GroupAssignment_L2_1\obj\Debug\netcoreapp1.1\GroupAssignment_L2_1.csprojResolveAssemblyReference.cache
