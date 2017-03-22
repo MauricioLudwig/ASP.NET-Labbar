@@ -1,0 +1,9 @@
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\bin\Debug\netcoreapp1.1\L3B_Models_1.deps.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\bin\Debug\netcoreapp1.1\L3B_Models_1.runtimeconfig.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\bin\Debug\netcoreapp1.1\L3B_Models_1.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\bin\Debug\netcoreapp1.1\L3B_Models_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\obj\Debug\netcoreapp1.1\L3B_Models_1.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\obj\Debug\netcoreapp1.1\L3B_Models_1.AssemblyInfo.cs
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\bin\Debug\netcoreapp1.1\L3B_Models_1.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\obj\Debug\netcoreapp1.1\L3B_Models_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3B_Models_1\L3B_Models_1\obj\Debug\netcoreapp1.1\L3B_Models_1.pdb

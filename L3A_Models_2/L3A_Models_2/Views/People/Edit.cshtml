@@ -1,0 +1,27 @@
+﻿@using L3A_Models_2.Models
+@model Person
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Edit</title>
+</head>
+<body>
+
+    <form asp-controller="people" asp-action="edit" method="post">
+
+        <label asp-for="Name"></label><br />
+        <input placeholder="@Model.Name" asp-for="Name" />
+        <span asp-validation-for="Name"></span><br />
+
+        <label asp-for="Email"></label><br />
+        <input placeholder="@Model.Email" asp-for="Email" />
+        <span asp-validation-for="Email"></span><br />
+
+        <input type="submit" value="Create" />
+
+    </form>
+
+</body>
+</html>

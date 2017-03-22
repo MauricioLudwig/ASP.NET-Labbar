@@ -1,0 +1,29 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css"/>
+</head>
+<body>
+
+    <h1>Fast and Furious X</h1>
+    <hr />
+    <ul class="nav-bar">
+        <li><a asp-controller="cars" asp-action="index">Home</a></li>
+        <li><a asp-controller="cars" asp-action="create">Create</a></li>
+    </ul>
+    <hr />
+
+    <div>
+        @RenderBody()
+    </div>
+
+    <hr />
+    <footer>&copy; Damien Gallagher 2017</footer>
+
+    @RenderSection("scriptvalidation", false)
+
+</body>
+</html>

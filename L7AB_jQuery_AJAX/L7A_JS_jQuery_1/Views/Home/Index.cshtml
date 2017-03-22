@@ -1,0 +1,19 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+@model CustomerIndexVM[]
+
+<button id="showAllBtn" type="button">Show All</button>
+
+@foreach (CustomerIndexVM customer in Model)
+{
+    <p customer-id="@customer.Id" customer-name="@customer.Name" customer-city="@customer.City" class="customer-box">@customer.Name</p>
+}
+
+<div id="customer-info"></div>
+<div id="showAllCustomers"></div>
+
+@section scripts{
+    <script src="http://ajax.aspnetcdn.com/ajax/jquery/jquery-1.9.0.js"></script>
+    <script src="~/js/scripts.js"></script>
+}

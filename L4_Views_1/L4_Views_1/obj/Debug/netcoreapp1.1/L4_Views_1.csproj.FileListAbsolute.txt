@@ -1,0 +1,6 @@
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L4_Views_1\L4_Views_1\bin\Debug\netcoreapp1.1\L4_Views_1.deps.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L4_Views_1\L4_Views_1\bin\Debug\netcoreapp1.1\L4_Views_1.runtimeconfig.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L4_Views_1\L4_Views_1\bin\Debug\netcoreapp1.1\L4_Views_1.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L4_Views_1\L4_Views_1\bin\Debug\netcoreapp1.1\L4_Views_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L4_Views_1\L4_Views_1\obj\Debug\netcoreapp1.1\L4_Views_1.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L4_Views_1\L4_Views_1\obj\Debug\netcoreapp1.1\L4_Views_1.AssemblyInfo.cs

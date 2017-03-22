@@ -1,0 +1,15 @@
+﻿@model CreateCompanyVM
+
+<form asp-controller="Settings" asp-action="Create" method="post">
+
+    <label asp-for="CompanyName"></label><br />
+    <input asp-for="CompanyName" />
+    <span asp-validation-for="CompanyName"></span><br />
+
+    <label asp-for="Email"></label><br />
+    <input asp-for="Email"/>
+    <span asp-validation-for="Email"></span><br />
+
+    <input type="submit"/>
+
+</form>

@@ -1,0 +1,29 @@
+﻿@model UserLoginVM
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+
+    <form asp-controller="Home" asp-action="Index" method="post">
+        
+        <label asp-for="Name"></label><br />
+        <input asp-for="Name" />
+        <span asp-validation-for="Name"></span><br />
+
+        <label asp-for="Password"></label><br />
+        <input asp-for="Password" />
+        <span asp-validation-for="Password"></span><br />
+
+        <label asp-for="SaveLogin"></label>
+        <input asp-for="SaveLogin" />
+        <span asp-validation-for="SaveLogin"></span><br /><br />
+
+        <input type="submit" />
+
+    </form>
+
+</body>
+</html>

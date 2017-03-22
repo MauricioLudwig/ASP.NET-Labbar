@@ -1,0 +1,18 @@
+﻿@using L3A_Models_1.Models
+@model Person[]
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+
+    @foreach (Person person in Model)
+    {
+        <h1>Name: @person.Name</h1>
+        <p>Age: @person.Age</p>
+    }
+
+</body>
+</html>

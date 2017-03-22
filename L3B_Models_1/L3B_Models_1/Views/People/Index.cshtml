@@ -1,0 +1,30 @@
+﻿@using L3B_Models_1.Models
+@model PeopleIndexVM[]
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+
+    <h1>My People!</h1>
+    <hr />
+
+    @foreach (PeopleIndexVM person in Model)
+    {
+        <p>@person.Name</p>
+
+        @if (person.ShowAsHighlighted)
+        {
+            <p style="color:green;">@person.Email</p>
+        }
+        else
+        {
+            <p style="color:red;">@person.Email</p>
+        }
+        <br />
+    }
+
+</body>
+</html>

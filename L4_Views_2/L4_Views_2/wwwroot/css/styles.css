@@ -1,0 +1,26 @@
+﻿body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    color: orangered;
+    font-weight: bold;
+}
+
+.nav-bar li {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: darkred;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.nav-bar li a, a:visited {
+    text-decoration: none;
+    color: white;
+}
+
+.nav-bar li:hover {
+    background-color: lightcoral;
+}

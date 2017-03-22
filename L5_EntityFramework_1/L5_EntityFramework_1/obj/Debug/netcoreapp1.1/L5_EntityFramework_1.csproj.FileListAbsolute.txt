@@ -1,0 +1,9 @@
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\bin\Debug\netcoreapp1.1\L5_EntityFramework_1.deps.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\bin\Debug\netcoreapp1.1\L5_EntityFramework_1.runtimeconfig.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\bin\Debug\netcoreapp1.1\L5_EntityFramework_1.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\bin\Debug\netcoreapp1.1\L5_EntityFramework_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\obj\Debug\netcoreapp1.1\L5_EntityFramework_1.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\obj\Debug\netcoreapp1.1\L5_EntityFramework_1.AssemblyInfo.cs
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\bin\Debug\netcoreapp1.1\L5_EntityFramework_1.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\obj\Debug\netcoreapp1.1\L5_EntityFramework_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L5_EntityFramework_1\L5_EntityFramework_1\obj\Debug\netcoreapp1.1\L5_EntityFramework_1.pdb

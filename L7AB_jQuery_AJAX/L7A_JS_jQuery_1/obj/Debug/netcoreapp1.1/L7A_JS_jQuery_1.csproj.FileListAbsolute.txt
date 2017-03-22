@@ -1,0 +1,17 @@
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.deps.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.runtimeconfig.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.AssemblyInfo.cs
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7A_JS_jQuery_1\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.deps.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.runtimeconfig.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\bin\Debug\netcoreapp1.1\L7A_JS_jQuery_1.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.csprojResolveAssemblyReference.cache
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.AssemblyInfo.cs
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L7AB_jQuery_AJAX\L7A_JS_jQuery_1\obj\Debug\netcoreapp1.1\L7A_JS_jQuery_1.pdb

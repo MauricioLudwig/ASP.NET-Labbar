@@ -1,0 +1,9 @@
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\bin\Debug\netcoreapp1.1\L3A_Models_2.deps.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\bin\Debug\netcoreapp1.1\L3A_Models_2.runtimeconfig.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\bin\Debug\netcoreapp1.1\L3A_Models_2.runtimeconfig.dev.json
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\bin\Debug\netcoreapp1.1\L3A_Models_2.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\obj\Debug\netcoreapp1.1\L3A_Models_2.AssemblyInfo.cs
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\bin\Debug\netcoreapp1.1\L3A_Models_2.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\obj\Debug\netcoreapp1.1\L3A_Models_2.dll
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\obj\Debug\netcoreapp1.1\L3A_Models_2.pdb
+C:\Users\Damien\Downloads\ASP.NET\Projects\Webbutveckling_Labbar\L3A_Models_2\L3A_Models_2\obj\Debug\netcoreapp1.1\L3A_Models_2.csprojResolveAssemblyReference.cache

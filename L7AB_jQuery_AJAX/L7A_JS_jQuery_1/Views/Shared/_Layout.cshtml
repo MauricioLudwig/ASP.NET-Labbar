@@ -1,0 +1,20 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" type="text/css" href="~/css/styles.css"/>
+</head>
+<body>
+
+    <h1>Customer List</h1>
+    <hr />
+
+    <div>
+        @RenderBody()
+    </div>
+
+    @RenderSection("scripts", false)
+</body>
+</html>

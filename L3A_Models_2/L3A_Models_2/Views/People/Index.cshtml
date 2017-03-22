@@ -1,0 +1,24 @@
+﻿@using L3A_Models_2.Models
+@model Person[]
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Home</title>
+</head>
+<body>
+
+    <h1>Let my people go...</h1>
+    <hr />
+    <br />
+
+    @foreach (Person person in Model)
+    {
+        <p>@person.Id Name: @person.Name - <a asp-controller="people" asp-action="edit/@person.Id">edit</a></p>
+        <p>Email: @person.Email</p>
+        <br />
+    }
+
+</body>
+</html>
